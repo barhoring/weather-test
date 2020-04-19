@@ -1,0 +1,32 @@
+body {
+  background-color: #db7b38;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: #ae662e;
+  color: white;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.data-box {
+  width: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.today {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-top {
+  display: flex;
+  flex-direction: row;
+}
